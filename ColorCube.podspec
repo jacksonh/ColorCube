@@ -6,7 +6,7 @@ Pod::Spec.new do |s|
   s.homepage = 'https://github.com/pixelogik/ColorCube'
   s.authors  = 'Ole Sprause'
 
-  s.source   = { :git => 'https://github.com/pixelogik/ColorCube.git', :branch => 'master', :tag => '0.0.1' }
+  s.source   = { :git => 'https://github.com/jacksonh/ColorCube.git', :branch => 'master', :tag => '0.0.1' }
 
   s.description = 'Cool and easy dominant color extraction from RGB images on iOS. It performs fast and easy color extraction from RGB images on iOS using a 3d histogram ("color cube"). It is fast because in order to extract colors you can downscale your image if it is too large and still get nice colors.'
  
